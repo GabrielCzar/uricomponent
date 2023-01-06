@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/leojaimesson/encodecomponent#readme",
   "devDependencies": {
-    "ava": "^1.0.0-beta.3",
+    "ava": "^1.4.1",
     "gulp": "^3.9.1",
     "gulp-header": "^1.8.9",
     "gulp-rename": "^1.2.2",
